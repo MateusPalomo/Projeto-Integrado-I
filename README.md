@@ -10,5 +10,4 @@ A maioria dos projetos em software se dão por conta de um problema inicial, e p
 
 <p align="center">
     <img src="https://media.giphy.com/media/ZBQ2RAh1imJaSUyInN/giphy.gif" />
-    <img src="https://media.giphy.com/media/Z9KdG7wGi40oupWKGc/giphy.gif" height="400" />
 </p>
