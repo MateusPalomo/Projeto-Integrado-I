@@ -4,3 +4,5 @@ Trabalho realizado para disciplina de Projeto Integrado I no 2º semestre do cur
 #### Banco de Dados
 #### Estrutura de Dados
 #### Programação Orientada a Objetos
+
+## Case Principal
