@@ -6,4 +6,4 @@ Trabalho realizado para disciplina de Projeto Integrado I no 2º semestre do cur
 #### Programação Orientada a Objetos
 
 ## Case principal para criação do sistema
-#### A maioria dos projetos são iniciados por conta de um problema inicial, e por causa disso gera-se todo um desenvolvimento de situação. A empresa criada nesse trabalho tem o seu foco em serviços, assim ajudando empresas pequenas em seu sistema de gestão, criando soluções tecnológicas diferenciadas para isso. 
+A maioria dos projetos são iniciados por conta de um problema inicial, e por causa disso gera-se todo um desenvolvimento de situação. A empresa criada nesse trabalho tem o seu foco em serviços, assim ajudando empresas pequenas em seu sistema de gestão, criando soluções tecnológicas diferenciadas para isso. 
