@@ -21,7 +21,7 @@ A maioria dos projetos em software se dão por conta de um problema inicial, e p
     
 </p>
 
-## Plugins
+## Ferramentas
 Plugins utilizados neste repositório.
 
 | Software | Versão |
