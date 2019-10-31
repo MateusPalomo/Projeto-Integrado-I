@@ -12,7 +12,7 @@ A maioria dos projetos em software se dão por conta de um problema inicial, e p
     <img src="https://media.giphy.com/media/ZBQ2RAh1imJaSUyInN/giphy.gif" />
 </p>
 
-## IDE e Frameworks utilizados
+## IDE's e Frameworks utilizados
 <p>
     <img src="https://miro.medium.com/max/525/0*DAfzCL4fuZltCqk3.png" />
 </p>
