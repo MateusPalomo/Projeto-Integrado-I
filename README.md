@@ -16,4 +16,6 @@ A maioria dos projetos em software se dão por conta de um problema inicial, e p
 <p align="center">
     <img src="https://miro.medium.com/max/525/0*DAfzCL4fuZltCqk3.png" />
     <img src="https://miro.medium.com/max/1200/1*oKtUIXORWEjXLh7aNg4ELA.png" height="150"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/1200px-Xampp_logo.svg.png" height="150"/>
+    
 </p>
