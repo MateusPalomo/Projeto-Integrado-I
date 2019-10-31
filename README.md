@@ -28,4 +28,5 @@ Plugins utilizados neste repositório.
 |----------|--------|
 |NetBeans IDE|8.0   |
 |MySql Workbench|6.3|
-|Xampp     |7.3.11  |
+|XAMPP     |7.3.11  |
+|iReport   | 5.6.0  |
