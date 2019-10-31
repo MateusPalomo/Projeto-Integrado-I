@@ -15,5 +15,5 @@ A maioria dos projetos em software se dão por conta de um problema inicial, e p
 ## IDE's e Frameworks utilizados
 <p align="center">
     <img src="https://miro.medium.com/max/525/0*DAfzCL4fuZltCqk3.png" />
-    <img src="https://cdn.imgbin.com/7/9/1/imgbin-mysql-workbench-computer-icons-logo-portable-network-graphics-database-server-LxsxMbVh7FuSQC5c9a3dBRRPM.jpg" />
+    <img src="https://cdn.imgbin.com/7/9/1/imgbin-mysql-workbench-computer-icons-logo-portable-network-graphics-database-server-LxsxMbVh7FuSQC5c9a3dBRRPM.jpg" height="400"/>
 </p>
