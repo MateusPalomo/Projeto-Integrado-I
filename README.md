@@ -27,3 +27,4 @@ Plugins utilizados neste repositório.
 | Software | Versão |
 |----------|--------|
 |NetBeans IDE|8.0   |
+|MySql Workbench|6.3|
