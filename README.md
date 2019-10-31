@@ -11,3 +11,5 @@ A maioria dos projetos em software se dão por conta de um problema inicial, e p
 <p align="left">
     <img src="https://media.giphy.com/media/ZBQ2RAh1imJaSUyInN/giphy.gif" />
 </p>
+
+## IDE e Frameworks utilizados
