@@ -20,3 +20,9 @@ A maioria dos projetos em software se dão por conta de um problema inicial, e p
     <img src="https://a.fsdn.com/con/app/proj/ireport/screenshots/58544.jpg/max/max/1" height="120"/>
     
 </p>
+
+## Plugins
+Plugins utilizados neste repositório.
+
+| Plugin | Pub |
+|--------|-----|
