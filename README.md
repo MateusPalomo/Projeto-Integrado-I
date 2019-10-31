@@ -13,3 +13,6 @@ A maioria dos projetos em software se dão por conta de um problema inicial, e p
 </p>
 
 ## IDE e Frameworks utilizados
+<p>
+    <img src="https://miro.medium.com/max/525/0*DAfzCL4fuZltCqk3.png" />
+</p>
