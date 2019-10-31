@@ -34,3 +34,5 @@ Plugins utilizados neste repositório.
 |iReport   | 5.6.0  |
 |Java jdk  |1.7.0_80|
 |MySql Connector|5.1.44|
+
+## Licença
