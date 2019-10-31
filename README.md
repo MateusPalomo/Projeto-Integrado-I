@@ -26,3 +26,4 @@ Plugins utilizados neste repositório.
 
 | Software | Versão |
 |----------|--------|
+|NetBeans IDE|8.0   |
