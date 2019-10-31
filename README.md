@@ -38,7 +38,7 @@ Plugins utilizados neste repositório.
 ## Licença
 
 ```
-Copyright 2019 Gabriel P. Souza, Caio Cesar de Salvi, Guilherme H. Tavares, Mateus Palomo Cunha e Matheus Silva de Araujo
+Copyright 2019 Gabriel P. Souza, Caio Cesar de Salvi, Guilherme H. Tavares, Mateus Palomo Cunha e Matheus S. de Araujo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
